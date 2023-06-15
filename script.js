@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1> Sup mur mur mur </h1>'
